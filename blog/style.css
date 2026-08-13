@@ -1,14 +1,13 @@
-/* These color values are placeholders, not a real palette — obviously so, on purpose. */
-/* Replace them before anything else. Everything past that point is a good-enough default. */
+/* Signal & Noise — soft, muted palette for a macro/energy/geopolitics blog. */
 :root {
-  --font-body: Georgia, "Iowan Old Style", serif;
-  --font-heading: -apple-system, "Helvetica Neue", sans-serif;
-  --color-bg: white;
-  --color-text: black;
-  --color-muted: gray;
-  --color-accent: blue;
-  --color-border: gray;
-  --color-card-bg: lightgray;
+  --font-body: "Charter", "Bitstream Charter", Georgia, serif;
+  --font-heading: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
+  --color-bg: #faf8f5;
+  --color-text: #2c2a28;
+  --color-muted: #7a756e;
+  --color-accent: #5c7a6e;
+  --color-border: #d8d3cc;
+  --color-card-bg: #f0ede8;
   --measure: 40rem;
   --radius: 0.5rem;
 }

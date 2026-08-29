@@ -16,7 +16,7 @@ traced back to the document it was extracted from.
 
 ## This month
 
-- **Warsh Jackson Hole aftermath — "no hand-holding"** — KPMG: "Warsh speaks, markets infer." Politico: "Warsh signals Fed may need to raise rates." Sept hike 55.7%. Any move to hike will invoke Trump's frustration. KPMG: "outline or trail map — just don't call it forward guidance." (Aug 28-29, https://kpmg.com/us/en/articles/2026/warsh-jackson-hole-commentary.html, https://www.politico.com/news/2026/08/28/warsh-speech-jackson-hole-fed-rates-01053899)
+- **Warsh Jackson Hole aftermath — "no hand-holding," Sept hike 55.7%** — KPMG: "Warsh speaks, markets infer." Morningstar: Warsh "sounds ready to hike rates" — "hard pressed to describe financial conditions as restrictive." Goldman: Aug CPI "crucial." PIMCO: "left little doubt." Polymarket: 56% at least one hike in 2026. Fed funds futures: rates near 4% through 2030. Any move to hike will invoke Trump's frustration. (Aug 28-29, https://kpmg.com/us/en/articles/2026/warsh-jackson-hole-commentary.html, https://www.politico.com/news/2026/08/28/warsh-speech-jackson-hole-fed-rates-01053899, https://polymarket.com/event/fed-rate-hike-in-2026, https://www.morningstar.com/economy/warsh-sounds-hawkish-will-there-be-september-rate-hike)
 
 - **IRGC asserts Hormuz control, US maintains blockade** — Competing claims at six-month mark. IRGC: "decisive control." White House: blockade "stays fully active," Hormuz open, no talks with Iran. CENTCOM: 1,500 vessels, 750M+ barrels transited since May. (Aug 29, https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade)
 
